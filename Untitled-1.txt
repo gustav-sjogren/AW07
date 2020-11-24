@@ -1,5 +1,0 @@
-<!doctype html>
-<html>
-  <head>AW07
-  </head>  
-</html>
